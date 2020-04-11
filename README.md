@@ -8,5 +8,7 @@ William Oliveira ([@etc_william](https://twitter.com/etc_william))
 
 ## Participantes
 
-David Borges ([@david81brs](https://twitter.com/david81brs))
 
+David Borges ([@david81brs](https://twitter.com/david81brs))
+Gabriela Carvalho (N/A)
+Jhonatan Correa Leandro ([Linkedin](https://www.linkedin.com/in/jhonatancorrealeandro/))
