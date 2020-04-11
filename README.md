@@ -8,4 +8,5 @@ William Oliveira ([@etc_william](https://twitter.com/etc_william))
 
 ## Participantes
 
+Gabriela Carvalho (N/A)
 Jhonatan Correa Leandro ([Linkedin](https://www.linkedin.com/in/jhonatancorrealeandro/))
