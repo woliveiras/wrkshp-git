@@ -8,4 +8,5 @@ William Oliveira ([@etc_william](https://twitter.com/etc_william))
 
 ## Participantes
 
-NOME ([REDE_SOCIAL](LINK))
+David Borges ([@david81brs](https://twitter.com/david81brs))
+
