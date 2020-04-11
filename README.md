@@ -9,3 +9,4 @@ William Oliveira ([@etc_william](https://twitter.com/etc_william))
 ## Participantes
 
 NOME ([REDE_SOCIAL](LINK))
+Renan Tarouco ([@RenanTarouco](https://twitter.com/RenanTarouco))
