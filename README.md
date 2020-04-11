@@ -10,6 +10,7 @@ William Oliveira ([@etc_william](https://twitter.com/etc_william))
 
 NOME ([REDE_SOCIAL](LINK))
 
-<strong>Leandro Bordignon</strong> <br>
-<em>Twitter:</em> ([@leandrolcb](https://twitter.com/leandrolcb)) <br>
+**Leandro Bordignon** <br>
+**Twitter:** ([@leandrolcb](https://twitter.com/leandrolcb)) <br>
 **Instragram:** ([@leandrolcb](https://instagram.com/leandrolcb/))
+**Linkedin:** ([@leandrolcb](https://linkedin.com/in/leandrobordignon/))
