@@ -8,4 +8,4 @@ William Oliveira ([@etc_william](https://twitter.com/etc_william))
 
 ## Participantes
 
-NOME ([REDE_SOCIAL](LINK))
+Jhonatan Correa Leandro ([Linkedin](https://www.linkedin.com/in/jhonatancorrealeandro/))
