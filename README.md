@@ -12,5 +12,5 @@ NOME ([REDE_SOCIAL](LINK))
 
 **Leandro Bordignon** <br>
 **Twitter:** ([@leandrolcb](https://twitter.com/leandrolcb)) <br>
-**Instragram:** ([@leandrolcb](https://instagram.com/leandrolcb/))
+**Instragram:** ([@leandrolcb](https://instagram.com/leandrolcb/)) <br>
 **Linkedin:** ([@leandrolcb](https://linkedin.com/in/leandrobordignon/))
